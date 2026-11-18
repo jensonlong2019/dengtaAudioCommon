@@ -30,6 +30,177 @@
           "endOffsetSeconds": 0.867525
         }
       ]
+    },
+    {
+      "id": "sa-1a0ec8e59cee",
+      "mediaType": "audio",
+      "name": "Guess away, no worries!",
+      "filePath": "audio/sa-1a0ec8e59cee/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 40884,
+      "durationSeconds": 2.3800625,
+      "sha256": "85d07b200d07253148a722806887fb7d2dfd6a51743cb5e2b004ffdd9a10d87d",
+      "sourceText": "大胆猜测不担心。",
+      "scriptText": "Guess away, no worries!\n",
+      "subtitleSegments": [
+        {
+          "text": "Guess away, no worries!\n",
+          "startOffsetSeconds": 0.2315,
+          "endOffsetSeconds": 2.0985
+        }
+      ]
+    },
+    {
+      "id": "sa-4296cdc41aa5",
+      "mediaType": "audio",
+      "name": "Fun Physics AI",
+      "filePath": "audio/sa-4296cdc41aa5/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 39156,
+      "durationSeconds": 2.3,
+      "sha256": "d4c539df4318cf8e626ac093d4df366ee09e46038f4cf6b4f5decd9cd44de5a7",
+      "sourceText": "去学物理AI课",
+      "scriptText": "Fun Physics AI ",
+      "subtitleSegments": [
+        {
+          "text": "Fun Physics AI ",
+          "startOffsetSeconds": -0.016,
+          "endOffsetSeconds": 3.378647
+        }
+      ]
+    },
+    {
+      "id": "sa-4daf39dd1b0e",
+      "mediaType": "audio",
+      "name": "爱因巴拉",
+      "filePath": "audio/sa-4daf39dd1b0e/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 48372,
+      "durationSeconds": 2.8560625,
+      "sha256": "5c2ad8877a4a63e1c2a0c23c2ab94b93c5b8bb297b20dc4e2c4bfd1fe7ab1957",
+      "sourceText": "",
+      "scriptText": "",
+      "subtitleSegments": []
+    },
+    {
+      "id": "sa-737df878835c",
+      "mediaType": "audio",
+      "name": "Oh, I get it!",
+      "filePath": "audio/sa-737df878835c/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 34548,
+      "durationSeconds": 2.0,
+      "sha256": "40a591a2160360b9df19d3e864a82c6a21cc1b1752247b44c523aabae73f867c",
+      "sourceText": "啊，我知道了，",
+      "scriptText": "Oh, I get it!",
+      "subtitleSegments": [
+        {
+          "text": "Oh, I get it!",
+          "startOffsetSeconds": 0.132781,
+          "endOffsetSeconds": 2.298781
+        }
+      ]
+    },
+    {
+      "id": "sa-75789be74b00",
+      "mediaType": "audio",
+      "name": "Let's get hands-on at the Bara Lab!",
+      "filePath": "audio/sa-75789be74b00/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 44340,
+      "durationSeconds": 2.6,
+      "sha256": "a37a87720277d34836d6fc77d3fa484789956a05fa73be6853df79ee8cf45b2e",
+      "sourceText": "动手，巴拉实验室。",
+      "scriptText": "Let's get hands-on at the Bara Lab!\n",
+      "subtitleSegments": [
+        {
+          "text": "Let's get hands-on at the Bara Lab!\n",
+          "startOffsetSeconds": 0.0,
+          "endOffsetSeconds": 2.833
+        }
+      ]
+    },
+    {
+      "id": "sa-c455d8d40ca9",
+      "mediaType": "audio",
+      "name": "BOOM! Let your imagination soar!Think it through,Capy Crew!",
+      "filePath": "audio/sa-c455d8d40ca9/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 90420,
+      "durationSeconds": 5.5,
+      "sha256": "2036affa2a7962e9194a04f08a2d18195740b799caecf209987297c747a18b33",
+      "sourceText": "脑洞大开，巴拉巴拉动脑筋，",
+      "scriptText": "BOOM! Let your imagination soar!Think it through,Capy Crew!",
+      "subtitleSegments": [
+        {
+          "text": "BOOM! Let your imagination soar!",
+          "startOffsetSeconds": 0.187,
+          "endOffsetSeconds": 2.971
+        },
+        {
+          "text": "Think it through, Capy Crew! ",
+          "startOffsetSeconds": 3.478,
+          "endOffsetSeconds": 5.368
+        }
+      ]
+    },
+    {
+      "id": "sa-c76279872672",
+      "mediaType": "audio",
+      "name": "Hey, kids! What do you think?",
+      "filePath": "audio/sa-c76279872672/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 52404,
+      "durationSeconds": 3.1,
+      "sha256": "cae8c26f9cf419ae1c99b21161345980abd6a178d3ff9809a8a186ad756b3834",
+      "sourceText": "你觉得呢？",
+      "scriptText": "Hey, kids! What do you think?",
+      "subtitleSegments": [
+        {
+          "text": "Hey, kids! What do you think?",
+          "startOffsetSeconds": 0.0,
+          "endOffsetSeconds": 2.914
+        }
+      ]
+    },
+    {
+      "id": "sa-c770f7ca4510",
+      "mediaType": "audio",
+      "name": "爱因巴拉",
+      "filePath": "audio/sa-c770f7ca4510/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 48948,
+      "durationSeconds": 2.89090625,
+      "sha256": "288594a3b59c39081b4dad9a26146f57d6070a7d54ce6bb92daadeb384ab7193",
+      "sourceText": "",
+      "scriptText": "",
+      "subtitleSegments": []
+    },
+    {
+      "id": "sa-e8dcb0a907f3",
+      "mediaType": "audio",
+      "name": "爱因巴拉",
+      "filePath": "audio/sa-e8dcb0a907f3/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 24756,
+      "durationSeconds": 1.4,
+      "sha256": "10728e968c0ca03a9e9e3bdba13624b5818723856c11b549231b455a597769b8",
+      "sourceText": "",
+      "scriptText": "",
+      "subtitleSegments": []
+    },
+    {
+      "id": "sa-f4efb0dddada",
+      "mediaType": "audio",
+      "name": "爱因巴拉",
+      "filePath": "audio/sa-f4efb0dddada/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 37428,
+      "durationSeconds": 2.17109375,
+      "sha256": "9bf7d58ccd44935f8230074443921f2b342e1b0427d450d3518ec134ff5de8e6",
+      "sourceText": "",
+      "scriptText": "",
+      "subtitleSegments": []
     }
   ]
 }
