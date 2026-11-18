@@ -11,6 +11,25 @@
       "sizeBytes": 78558,
       "durationSeconds": 1.635,
       "sha256": "4400e1551d99f685dac28074d5872e5175704f74189444f93ab3ce109bd5fae7"
+    },
+    {
+      "id": "sa-9af0773c105e",
+      "mediaType": "audio",
+      "name": "测试",
+      "filePath": "audio/sa-9af0773c105e/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 29940,
+      "durationSeconds": 1.7,
+      "sha256": "2588fd571292f994a6a3588c7645d3eb3cfe4889f4f977ed9ab091ca91e733d3",
+      "sourceText": "趣学物",
+      "scriptText": "Fun Physics",
+      "subtitleSegments": [
+        {
+          "text": "Fun Physics",
+          "startOffsetSeconds": 0.0,
+          "endOffsetSeconds": 0.867525
+        }
+      ]
     }
   ]
 }
