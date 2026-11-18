@@ -201,6 +201,82 @@
       "sourceText": "",
       "scriptText": "",
       "subtitleSegments": []
+    },
+    {
+      "id": "sa-01a68bdcba07",
+      "mediaType": "audio",
+      "name": "爱因巴拉",
+      "filePath": "audio/sa-01a68bdcba07/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 48372,
+      "durationSeconds": 2.8560625,
+      "sha256": "5c2ad8877a4a63e1c2a0c23c2ab94b93c5b8bb297b20dc4e2c4bfd1fe7ab1957",
+      "sourceText": "爆发好奇小宇宙！",
+      "scriptText": "POW! Unleash Your Curiosity!",
+      "subtitleSegments": [
+        {
+          "text": "POW! Unleash Your Curiosity!",
+          "startOffsetSeconds": 0.263062,
+          "endOffsetSeconds": 2.856063
+        }
+      ]
+    },
+    {
+      "id": "sa-34c2faccd507",
+      "mediaType": "audio",
+      "name": "爱因巴拉",
+      "filePath": "audio/sa-34c2faccd507/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 37428,
+      "durationSeconds": 2.17109375,
+      "sha256": "9bf7d58ccd44935f8230074443921f2b342e1b0427d450d3518ec134ff5de8e6",
+      "sourceText": "我们下一集再揭晓。",
+      "scriptText": "Coming up next episode!",
+      "subtitleSegments": [
+        {
+          "text": "Coming up next episode!",
+          "startOffsetSeconds": 0.517028,
+          "endOffsetSeconds": 2.209028
+        }
+      ]
+    },
+    {
+      "id": "sa-83eccc903f87",
+      "mediaType": "audio",
+      "name": "爱因巴拉",
+      "filePath": "audio/sa-83eccc903f87/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 24756,
+      "durationSeconds": 1.4,
+      "sha256": "10728e968c0ca03a9e9e3bdba13624b5818723856c11b549231b455a597769b8",
+      "sourceText": "答案，",
+      "scriptText": "The answer?",
+      "subtitleSegments": [
+        {
+          "text": "The answer?",
+          "startOffsetSeconds": 0.413896,
+          "endOffsetSeconds": 1.686896
+        }
+      ]
+    },
+    {
+      "id": "sa-ae6408590a0e",
+      "mediaType": "audio",
+      "name": "爱因巴拉",
+      "filePath": "audio/sa-ae6408590a0e/audio.wav",
+      "contentType": "audio/wav",
+      "sizeBytes": 48948,
+      "durationSeconds": 2.89090625,
+      "sha256": "288594a3b59c39081b4dad9a26146f57d6070a7d54ce6bb92daadeb384ab7193",
+      "sourceText": "叮咚，彩蛋时间到！",
+      "scriptText": "Ding-dong! Bonus time!",
+      "subtitleSegments": [
+        {
+          "text": "Ding-dong! Bonus time!",
+          "startOffsetSeconds": -0.403395,
+          "endOffsetSeconds": 2.769605
+        }
+      ]
     }
   ]
 }
